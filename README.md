@@ -121,7 +121,6 @@ Multi-service Spring Boot architecture demonstrating independent deployability, 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=yaseenshar&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" height="165"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenshar&layout=compact&hide_border=true&theme=default&langs_count=6" height="165"/>
