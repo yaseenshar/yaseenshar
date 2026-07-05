@@ -11,7 +11,7 @@
 
 # Ghulam Yaseen Shar
 
-### Senior Full-Stack Engineer &nbsp;·&nbsp; Java · Spring Boot · Microservices · GCP · IoT
+### Senior Software Engineer / Java Developer / Backend Engineer / Full-Stack Engineering &nbsp;·&nbsp; Java · Spring Boot · Microservices · GCP · IoT
 
 <br/>
 
@@ -21,7 +21,7 @@
 &nbsp;
 ![Location](https://img.shields.io/badge/📍_Chemnitz-Germany-lightgrey?style=flat-square)
 &nbsp;
-![Status](https://img.shields.io/badge/Open_to-Senior_Java_%2F_Full--Stack_Roles_in_DE-2ea44f?style=flat-square)
+![Status](https://img.shields.io/badge/Open_to-Senior_Software_Engineer_%2F_Java_Developer_%2F_Backend_Engineer%2F_Full--Stack_Roles_in_DE-2ea44f?style=flat-square)
 
 </div>
 
@@ -135,7 +135,7 @@ Multi-service Spring Boot architecture demonstrating independent deployability, 
 | 💼 **LinkedIn** | [ghulam-yaseen-shar-782233bb](https://www.linkedin.com/in/ghulam-yaseen-shar-782233bb/) |
 | 📧 **Email** | yaseenshar50@gmail.com |
 | 📍 **Location** | Chemnitz, Germany |
-| ✅ **Status** | Open to Senior Software Engineer / Java / Backend / Full-Stack Engineering roles in Germany |
+| ✅ **Status** | Open to Senior Software Engineer / Java Developer / Backend Engineer / Full-Stack Engineering roles in Germany | 
 
 ---
 
