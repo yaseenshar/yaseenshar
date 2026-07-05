@@ -135,7 +135,7 @@ Multi-service Spring Boot architecture demonstrating independent deployability, 
 | 💼 **LinkedIn** | [ghulam-yaseen-shar-782233bb](https://www.linkedin.com/in/ghulam-yaseen-shar-782233bb/) |
 | 📧 **Email** | yaseenshar50@gmail.com |
 | 📍 **Location** | Chemnitz, Germany |
-| ✅ **Status** | Open to Senior Java / Full-Stack Engineering roles in Germany |
+| ✅ **Status** | Open to Senior Software Engineer / Java / Backend / Full-Stack Engineering roles in Germany |
 
 ---
 
